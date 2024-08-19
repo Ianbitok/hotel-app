@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "503136621300",
-    "project_id": "hotel-login-system-e2922",
-    "storage_bucket": "hotel-login-system-e2922.appspot.com"
+    "project_number": "848297437078",
+    "project_id": "hotel-appk",
+    "storage_bucket": "hotel-appk.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:503136621300:android:470312135d59ad58bd04a1",
+        "mobilesdk_app_id": "1:848297437078:android:2c50df770b8febf87cdfb7",
         "android_client_info": {
           "package_name": "com.example.hotelloginsystem"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC8LkMA2V3XUlezkMi7VZBDPIPNFndt_mw"
+          "current_key": "AIzaSyCeZhrdI81ZDcyN51vwdUqTTFVtH8qcgcI"
         }
       ],
       "services": {
